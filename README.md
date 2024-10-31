@@ -14,11 +14,11 @@ ReadMe: Each project includes a dedicated README file with additional informatio
 
 Some key topics covered across the projects include:
 
-Data preprocessing and feature engineering
-Exploratory data analysis (EDA)
-Supervised and unsupervised machine learning models
-Deep learning and neural networks
-Natural Language Processing (NLP)
+Data preprocessing and feature engineering,
+Exploratory data analysis (EDA),
+Supervised and unsupervised machine learning models,
+Deep learning and neural networks,
+Natural Language Processing (NLP) and 
 Model evaluation and performance tuning
 
 
